@@ -1,8 +1,8 @@
 {
   "name": "calcImageDimensions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Calculate out of a width, height or both new dimensions of an image while keeping the aspect ratio.",
-  "main": "calcImageDimensions.js",
+  "main": "dist/calcImageDimensions.js",
   "moduleType": [
     "globals"
   ],
